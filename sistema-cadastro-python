@@ -1,0 +1,11 @@
+# Sistema de Cadastro em Python
+
+Projeto simples em Python com funcionalidades de cadastro, listagem, atualização e exclusão de usuários.
+
+## Funcionalidades
+- Cadastrar usuário
+- Listar usuários
+- Atualizar usuário
+- Excluir usuário
+
+📌 Projeto desenvolvido para fins de aprendizado e prática de lógica de programação.
