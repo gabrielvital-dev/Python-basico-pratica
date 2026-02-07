@@ -12,3 +12,4 @@ Este repositório contém exercícios simples de Python para fixação de lógic
 - Listas e dicionários
 
 📌 Projeto desenvolvido para fins de estudo e prática.
+
